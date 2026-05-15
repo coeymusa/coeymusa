@@ -35,7 +35,7 @@ Based in **Zürich, Switzerland**. Nine years shipping software, all within fint
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**MCU**](https://www.coreyscodecave.com/mcu) | Regulated loan-management platform for an Isle of Man credit union — 3 services, 280+ endpoints, OAuth2/OIDC, four-eyes + director sign-off enforced in the schema | Angular 19, Spring Boot 3, Spring Authorization Server, PostgreSQL, Electron desktop client |
+| **MCU** *(private — regulated product)* | Loan-management platform for a regulated credit union — 3 services, 280+ endpoints, OAuth2/OIDC, four-eyes + director sign-off enforced in the schema. Details available on request | Angular 19, Spring Boot 3, Spring Authorization Server, PostgreSQL, Electron desktop client |
 | [**PromptMySite**](https://promptmysite.com) | Conversational AI that renders structured website UI live as you chat | Angular, Spring Boot, Claude API |
 | [**Mooncake**](https://getmooncake.com) | Mobile-first AI chat that remembers the people in your life | React Native / Expo, Hono, Claude / OpenAI |
 | [**Rugby Unlocked**](https://rugbyunlocked.com) | Global two-sided rugby recruitment marketplace | Angular, Spring Boot, WebSockets |
